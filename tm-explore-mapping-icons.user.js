@@ -1,6 +1,9 @@
 // ==UserScript==
 // @name         TM: mapping-type icons on project cards
 // @namespace    https://github.com/Patrik-Br
+// @homepageURL  https://github.com/Patrik-Br/Tampermonkey_scripts
+// @updateURL    https://raw.githubusercontent.com/Patrik-Br/Tampermonkey_scripts/main/tm-explore-mapping-icons.user.js
+// @downloadURL  https://raw.githubusercontent.com/Patrik-Br/Tampermonkey_scripts/main/tm-explore-mapping-icons.user.js
 // @version      1.0.0
 // @description  Shows each project's mapping types (roads, buildings, waterways, land use, other) on Tasking Manager project cards, e.g. on Explore projects. Workaround for hotosm/tasking-manager#5568.
 // @match        https://tasks.hotosm.org/*

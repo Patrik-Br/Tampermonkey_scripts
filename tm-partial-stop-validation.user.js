@@ -1,6 +1,9 @@
 // ==UserScript==
 // @name         TM: stop validating individual tasks
 // @namespace    https://github.com/Patrik-Br
+// @homepageURL  https://github.com/Patrik-Br/Tampermonkey_scripts
+// @updateURL    https://raw.githubusercontent.com/Patrik-Br/Tampermonkey_scripts/main/tm-partial-stop-validation.user.js
+// @downloadURL  https://raw.githubusercontent.com/Patrik-Br/Tampermonkey_scripts/main/tm-partial-stop-validation.user.js
 // @version      1.0.0
 // @description  When validating several Tasking Manager tasks at once, adds a "Stop validating" option per task, so you can release some tasks and validate/invalidate the rest. Workaround for hotosm/tasking-manager#5618.
 // @match        https://tasks.hotosm.org/*
